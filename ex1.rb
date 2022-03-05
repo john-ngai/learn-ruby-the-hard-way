@@ -1,3 +1,6 @@
+# Exercise 1: A Good First Program
+# https://learnrubythehardway.org/book/ex1.html
+
 puts "Hello World!"
 puts "Hello Again"
 puts "I like typing this."
